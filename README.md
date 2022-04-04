@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/30414956/161528453-4883812b-9653-4dea-82ce-d861bbf28d26.gif" width="30" />   Hi, I'm Kirill</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=24&background=FFFFFF00&center=true&lines=iOS+developer)](https://git.io/typing-svg)
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=iOS+Developer)](https://git.io/typing-svg)</h3>
+
 
 - 🌱 I’m currently learning IOS Development.
 - 📫 Email :  **kirill.sytkov@yandex.ru**

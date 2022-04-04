@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/30414956/161528453-4883812b-9653-4dea-82ce-d861bbf28d26.gif" width="30" />   Hi, I'm Kirill</h1>
+<h1 align="center">Hi, I'm Kirill<img src="https://user-images.githubusercontent.com/30414956/161528453-4883812b-9653-4dea-82ce-d861bbf28d26.gif" width="30" /></h1>
 <h3 align="center">iOS Developer</h3>
 <hr></hr>
 

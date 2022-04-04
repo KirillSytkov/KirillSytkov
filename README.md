@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1 align="center"><img src="https://user-images.githubusercontent.com/30414956/161528453-4883812b-9653-4dea-82ce-d861bbf28d26.gif" width="30" /> Hi, I'm Kirill</h1>
+<h3 align="center">iOS developer</h3>!
 
-<!--
-**KirillSytkov/KirillSytkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **KirillSytkov/KirillSytkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->

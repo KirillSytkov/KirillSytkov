@@ -19,7 +19,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/30414956/161545318-6023ce97-449f-4e18-947c-1cd8b8ba4c16.png" alt="csharp" height="30" width="30"/>&nbsp;
   <img align="center" src="https://user-images.githubusercontent.com/30414956/161545330-f749a4fe-9bbd-4e85-9e31-25bce579e8bb.png" alt="csharp" height="30" width="30"/>&nbsp;
 </p>
-<img src="https://www.codewars.com/users/Kirill.Sytkov/badges/small?theme=dark"/>
+
 
 
 

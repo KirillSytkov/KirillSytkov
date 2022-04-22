@@ -6,7 +6,7 @@
 - 📫 Email :  **kirill.sytkov@yandex.ru**
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
-<a href="https://www.linkedin.com/in/kirill-sytkov-253590233/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="bilgecakar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kirill-sytkov/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="bilgecakar" height="30" width="30" /></a>
 </p>
 <h3 align="left">Technologies and Tools:</h3>
 <p> 

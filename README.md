@@ -3,7 +3,7 @@
 <hr></hr>
 
 - 🌱 I’m currently learning IOS Development.<img align="right" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />
-- 📫 Email :  **kirill.sytkov@yandex.ru**
+- 📫 Email :  **kirill.sytkov.dev@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
 <a href="https://www.linkedin.com/in/kirill-sytkov/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="bilgecakar" height="30" width="30" /></a>

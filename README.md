@@ -3,7 +3,7 @@
 <hr></hr>
 
 
-- 🌱 I’m currently learning IOS Development. 
+- 🌱 I’m currently learning iOS Development. 
 - 📫 Email :  **kirill.sytkov.dev@gmail.com**
 
 <img align="right" width="300" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />

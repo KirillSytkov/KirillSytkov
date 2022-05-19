@@ -2,8 +2,12 @@
 <h3 align="center">iOS Developer</h3>
 <hr></hr>
 
-- 🌱 I’m currently learning IOS Development.<img align="right" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />
+
+- 🌱 I’m currently learning IOS Development. 
 - 📫 Email :  **kirill.sytkov.dev@gmail.com**
+
+<img align="right" width="300" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
 <a href="https://www.linkedin.com/in/kirill-sytkov/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Kirill sytkov" height="30" width="30" /></a>

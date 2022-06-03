@@ -3,9 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9A2D29t&size=30&lines=iOS+Developer;Learning+new+things&center=true&width=1000&height=50"></a>
 </p>
 <hr></hr>
-- 🌱 I’m currently learning IOS Development <img align="right" width="300" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />
-- 📫 Email :  **kirill.sytkov.dev@gmail.com**
 
+- 🌱 I’m currently learning IOS Development 
+- 📫 Email :  **kirill.sytkov.dev@gmail.com**
+<img align="right" width="300" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">

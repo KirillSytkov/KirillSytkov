@@ -4,7 +4,7 @@
 </p>
 <hr></hr>
 
-- 📫 Email :  **kirill.sytkov.dev@gmail.com**
+- 📫 Reach me:  **kirill.sytkov.dev@gmail.com**
 <img align="right" width="288" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />
 <img align="right" width="250" src="https://user-images.githubusercontent.com/30414956/179750119-deec5ae3-4e6e-404a-bb38-87128130b630.jpg"/>
 

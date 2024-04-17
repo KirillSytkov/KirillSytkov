@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
-<a href="https://www.linkedin.com/in/kirill-sytkov/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Kirill sytkov" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kirill-sytkov/" target="blank"><img align="center" src="https://github.com/KirillSytkov/KirillSytkov/assets/30414956/77ad21d9-8552-4987-b8d4-06dd498ccfc8" alt="Kirill sytkov" height="30" width="30" /></a>
 </p>
 <h3 align="left">Technologies and Tools:</h3>
 <p> 
@@ -24,10 +24,3 @@
   <img align="center" src="https://user-images.githubusercontent.com/30414956/161545318-6023ce97-449f-4e18-947c-1cd8b8ba4c16.png" alt="csharp" height="30" width="30"/>&nbsp;
   <img align="center" src="https://user-images.githubusercontent.com/30414956/161545330-f749a4fe-9bbd-4e85-9e31-25bce579e8bb.png" alt="csharp" height="30" width="30"/>&nbsp;
 </p>
-
-
-
-
-
-
-

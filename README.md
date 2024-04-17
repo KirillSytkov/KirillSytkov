@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kirill   <img src="https://user-images.githubusercontent.com/30414956/161528453-4883812b-9653-4dea-82ce-d861bbf28d26.gif" width="30" /></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9A2D29t&size=30&lines=iOS+Developer;Learning+new+things&center=true&width=1000&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9A2D29t&size=30&lines=iOS+Developer;&center=true&width=1000&height=50"></a>
 </p>
 <hr></hr>
 
